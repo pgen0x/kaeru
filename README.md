@@ -21,7 +21,7 @@
 
 ## ⚙️ Customization (Optional)
 
-You can customize settings by editing the `config.json` file or setting environment variables:
+You can customize settings by editing the `config.json` file located at `/storage/emulated/0/Kaeru/config.json` or setting environment variables:
 
 *   `PRIVATE_SERVER_URL`: Your Private Server link.
 *   `DELAY`: How long to wait on each window (default: 8 seconds).
